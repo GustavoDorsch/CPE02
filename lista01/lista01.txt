@@ -1,0 +1,88 @@
+1.
+1.Hardware
+2.Hardware
+3.Software
+4.Software
+3.Hardware
+
+
+2.Software é o que faz o computador funcionar, desde o sistema operacional até os aplicativos que usamos,
+como navegadores e editores de texto. Ele é essencial porque permite automatizar tarefas,
+acessar informações, conectar pessoas e melhorar a produtividade, sendo fundamental para o funcionamento e inovação tecnológica.
+
+3.Algoritmo é um passo a passo de instruções para resolver um problema ou realizar uma tarefa.
+É como uma receita que o computador segue para chegar a um resultado.
+
+4.Medicina: Prontuários eletrônicos, software de diagnóstico por imagem (como o PACS), e sistemas de telemedicina.
+Ciência: Softwares como MATLAB e AutoCAD para simulações, e plataformas como o Excel para análise de dados.
+Entretenimento: Softwares de edição de vídeo como o Adobe Premiere, motores de jogos como Unity e Netflix para streaming.
+
+5.Mais fáceis: Apps de organização como Google Agenda, apps de banco, GPS como Google Maps e ferramentas de comunicação como WhatsApp.
+
+Mais complicados: Softwares com muitas configurações, como certos editores de vídeo ou sistemas operacionais cheios de bugs e atualizações constantes.
+
+6.uso um smartphone ou computador, que depende de software para funcionar, e a internet para enviar e receber dados. Até algo simples como agendar compromissos envolve aplicativos e tecnologia digital.
+
+7.Assistir a filmes e séries em plataformas de streaming, como Netflix, seria impossível sem computadores.
+
+8.Whatsapp, Spotify, Steam, etc...
+
+9.Caminhar no parque
+Jogar futebol com amigos
+Tomar banho de mar
+Pintar uma tela à mão
+Fazer jardinagem
+Tocar violão 
+Ler um livro físico
+Cozinhar 
+Conversar cara a cara
+Pedalar uma bicicleta
+
+10. inteligência artificial pode transformar a área da computação, mas não necessariamente vai acabar com empregos. Ela pode automatizar tarefas repetitivas, o que pode reduzir a necessidade de algumas funções.
+
+11.Meu computador é mediano e tem um processador que é bom para tarefas diárias.
+Ele tem 8 GB de RAM, o que me permite fazer multitarefas de forma tranquila, como ter várias abas abertas e usar alguns programas ao mesmo tempo. Para armazenamento, tenho um SSD de 512 GB,
+que oferece velocidade para iniciar o sistema rapidamente e espaço suficiente para meus arquivos e aplicativos.
+
+12.Para resolver um cubo mágico utilizando o método de camadas, comece pela primeira camada formando uma cruz com uma cor (geralmente branca) e alinhando as bordas com os centros,
+seguido da colocação dos cantos na posição correta. Em seguida, avance para a segunda camada,
+identificando as bordas que precisam ser movidas. Use a sequência U R U' R' U' F' U F para posicionar as bordas que estão na camada superior e, se estiverem na camada inferior,
+mova-as para cima antes de aplicar a sequência. Para a terceira camada, comece formando uma cruz na parte superior (geralmente amarela) utilizando a sequência F R U R' U' F'.
+Depois, posicione os cantos corretamente com a sequência U R U' L' U R' U' L. Para orientar os cantos da camada superior, use a sequência R U R' U R U2 R' para garantir que todos fiquem com a mesma cor para cima.
+Por último, ajuste as bordas da camada superior aplicando a sequência F2 U L R' F2 L' R U F2 até que todas estejam na posição correta.
+
+13.Um bit é a menor unidade de dados em um computador e pode ser 0 ou 1. Um byte é composto por 8 bits, e pode representar 256 valores diferentes. Em resumo, um byte é apenas um grupo de 8 bits.
+
+14.ra representar números reais em binário, separamos a parte inteira da parte decimal. Por exemplo, no número 5,75, convertemos a parte inteira (5) para binário, que é 101, e a parte decimal (0,75), que se torna 0,11.
+Assim, ao juntar as partes, 5,75 em binário fica como 101,11. Essa é a forma básica de representar números reais no sistema binário.
+
+15.Para converter o número 150 para binário, começamos dividindo 150 por 2,
+que dá 75 com um resto de 0. Depois, dividimos 75 por 2 e conseguimos 37 com resto 1. Continuamos: 37 dividido por 2 dá 18 (resto 1), 18 por 2 resulta em 9 (resto 0), 9 por 2 dá 4 (resto 1),
+4 por 2 resulta em 2 (resto 0) e 2 por 2 dá 1 (resto 0).
+Por último, 1 dividido por 2 dá 0 com resto 1. Agora, é só ler os restos de baixo para cima e temos 10010110. Então, 150 em binário é 10010110!
+
+16.No Scrum, o Scrum Master é responsável por garantir que a equipe siga as práticas do Scrum, removendo obstáculos e facilitando a comunicação.
+O Dono do Produto é quem define a visão do projeto e prioriza as tarefas a serem feitas, garantindo que o produto atenda às necessidades dos usuários.
+Já o Time de Desenvolvimento é composto pelos profissionais que realmente constroem o produto, trabalhando juntos para entregar incrementos de valor em cada sprint.
+Em resumo: o Scrum Master facilita, o Dono do Produto prioriza e o Time de Desenvolvimento cria.
+
+17.Para mover, copiar e remover arquivos no Linux pela linha de comando, você usa alguns comandos simples.
+Para mover um arquivo, como arquivo.txt, para uma pasta chamada Documentos, você digita mv arquivo.txt Documentos/.
+Se quiser copiar o mesmo arquivo para a pasta, o comando é cp arquivo.txt Documentos/. Para remover o arquivo, você apenas usa rm arquivo.txt. Esses comandos são super práticos para gerenciar seus arquivos.
+
+18.O padrão IEEE para redes Wi-Fi é o 802.11, que inclui várias versões, como 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac e 802.11ax (também conhecido como Wi-Fi 6).
+Para o Bluetooth, o padrão IEEE é o 802.15.1. Esses padrões definem como os dispositivos se comunicam sem fio, garantindo compatibilidade e eficiência nas conexões.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
